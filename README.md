@@ -72,3 +72,5 @@ An Agno agentic system that provides expert software architecture analysis and r
 - API usage costs apply
 
 
+
+<!-- Updated: 2025-09-16 -->
